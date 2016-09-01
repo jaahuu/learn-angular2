@@ -35,9 +35,9 @@ h4 {
   position: relative;
 }
 .module:hover {
-  background-color: #EEE;
+  background-color: #607D60;
   cursor: pointer;
-  color: #607d8b;
+  color: #eee;
 }
 .grid-pad {
   padding: 10px 0;
